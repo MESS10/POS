@@ -1,2 +1,2 @@
-# POS
- POS with java and php
+# Saless
+ Java POS with php database
